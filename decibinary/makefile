@@ -8,3 +8,5 @@ all: decibinary decibinary.o
 
 clean:
 	rm -f *.o decibinary
+
+#adding the running command script
